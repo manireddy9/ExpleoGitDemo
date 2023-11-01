@@ -7,7 +7,7 @@
 public class Age{
 	public static void main(String[] args){
 		byte age;
-		age=20;                         //declaring and assign the value to the variable
+		age=40;                         //declaring and assign the value to the variable
 		System.out.println(age);
 		
         }
